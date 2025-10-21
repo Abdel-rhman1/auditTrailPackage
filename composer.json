@@ -1,5 +1,5 @@
 {
-    "name": "abdelrhman/audit-trail",
+    "name": "abdel-rhman/audit-trail",
     "description": "A simple Audit Trail package for Laravel to log model changes.",
     "type": "library",
     "license": "MIT",
