@@ -1,0 +1,20 @@
+{
+    "name": "abdelrhman/audit-trail",
+    "description": "A simple Audit Trail package for Laravel to log model changes.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdelrhman\\AuditTrail\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Abdelrhman\\AuditTrail\\AuditTrailServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
